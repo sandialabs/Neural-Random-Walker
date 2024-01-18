@@ -1,0 +1,4 @@
+[submodule "Fugu"]
+	path = Fugu
+	url = https://github.com/sandialabs/Fugu.git
+        ignore = untracked
